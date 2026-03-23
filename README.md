@@ -25,3 +25,11 @@
 ## 💡 Pro-Tips & Best Practices
 
 - **Document Before You Automate:** Never start building in a tool until you have written out the exact steps of your workflow in plain English. If a human can't follow your written instructions, a bot won't be able to either.
+
+---
+
+## 🤝 Contributing
+
+Know a fantastic No-Code tool or an AI automation workflow that belongs here? 
+
+**[Open an Issue](https://github.com/miliindshinde/awesome-no-code-ai-automation/issues)** to suggest a tool or share a pro-tip! Let's build the ultimate resource together.
