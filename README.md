@@ -3,7 +3,16 @@
 
 > A curated "Awesome-Style" vault of resources, tools, and workflows specifically for non-technical professionals who want to leverage AI and automation. Curated by Miliind Shinde.
 
-___
+---
+
+## 📋 Contents
+
+- [🤖 AI Assistants & Tools](#-ai-assistants--tools)
+- [⚡ No-Code Workflow Automation](#-no-code-workflow-automation)
+- [💡 Pro-Tips & Best Practices](#-pro-tips--best-practices)
+
+---
+
 
 ## 🤖 AI Assistants & Tools
 
