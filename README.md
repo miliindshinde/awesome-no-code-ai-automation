@@ -5,7 +5,7 @@
 
 ___
 
-​## 🤖 AI Assistants & Tools
+## 🤖 AI Assistants & Tools
 
 ## ⚡ No-Code Workflow Automation
 
