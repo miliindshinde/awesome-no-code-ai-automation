@@ -7,6 +7,6 @@ ___
 
 ​## 🤖 AI Assistants & Tools
 
-​## ⚡ No-Code Workflow Automation
+## ⚡ No-Code Workflow Automation
 
-​## 💡 Pro-Tips & Best Practices
+## 💡 Pro-Tips & Best Practices
