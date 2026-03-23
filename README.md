@@ -23,3 +23,5 @@
 - [Make.com](https://www.make.com/) - An advanced visual platform that lets you design, build, and automate complex workflows without code. **Pro-Tip:** Start by mapping your workflow on paper before building it here.
 
 ## 💡 Pro-Tips & Best Practices
+
+- **Document Before You Automate:** Never start building in a tool until you have written out the exact steps of your workflow in plain English. If a human can't follow your written instructions, a bot won't be able to either.
