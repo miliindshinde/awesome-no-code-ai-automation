@@ -33,3 +33,7 @@
 Know a fantastic No-Code tool or an AI automation workflow that belongs here? 
 
 **[Open an Issue](https://github.com/miliindshinde/awesome-no-code-ai-automation/issues)** to suggest a tool or share a pro-tip! Let's build the ultimate resource together.
+
+
+## AI Tools
+- [AI tools for real estate](https://agentskills.work/) - Agent Skills Work provides no-code AI tools for non-technical professionals, including real estate agents and business owners.
