@@ -15,6 +15,7 @@
 
 
 ## 🤖 AI Assistants & Tools
+- [AI Group Call](https://aigroupcall.app) - Facilitate a live AI panel: agents answer one at a time, build on each other, and leave notes and action items after the call.
 
 - [Google Gemini](https://gemini.google.com/) - A powerful multimodal AI assistant capable of reasoning across text, code, and images. **Pro-Tip:** Use it to help draft complex automation logic or format messy data before sending it to Make.com.
 
